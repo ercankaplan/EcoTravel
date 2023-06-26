@@ -30,6 +30,8 @@ Description: "Contrary to popular belief, Lorem Ipsum is not simply random text.
 ImageUrl: "https://picsum.photos/id/9/5000/3269",
 Price:"54.93"
 }])
-db.products.find()
+>db.products.find()
+
+>show databases
 ```
 
