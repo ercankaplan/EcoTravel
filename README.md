@@ -35,3 +35,4 @@ Price:"54.93"
 >show databases
 ```
 
+we will use MongoDB.Driver , for communicating with the Mongo database and swashbuckle package from nuget
